@@ -1,0 +1,40 @@
+16 Idiomas + Ingles = 17 Idiomas
+
+New project
+    project title = output
+Languajes
+    Source Languajes : English
+    Target Languajes : English
+
+
+TM+			
+Language Catalyst 	                                .Net Locale Code        	            Output	Transperfect
+English (United States)			
+Arabic	                                                    ARA	                            ar	    Arabic(Egypt)
+Chinese (Simplified, People`s Republic of China)	        CHS	                            zh-CN	Simplified Chinese (China)
+German (Germany)	                                        DEU	                            de-DE	German(Germany)
+Spanish (Spain, International Sort)	                        ESP                         	es-ES	Spanish(Spain)
+French (France)                                         	FRA	                            fr-FR	French(France)
+Hebrew (Israel)                                         	HEB	                            he-IL	Hebrew(Israel)
+Indonesia (Indonesia)	                                    IND	                            id-ID	Indonesia (Indonesia)
+Italian	                                                    ITA	                            it	    Italian
+Japanese	                                                JPN	                            ja	    Japanese
+Korean (Korea)	                                            KOR	                            ko-KR	Korean (South Korea)
+Polish (Poland)	                                            POL	                            pl-PL	Polish (Poland)
+Portugese (Brasil)	                                        PTB	                            pt-BR	Portugese (Brazil)
+Russian	                                                    RUS	                            ru	    Russian
+Thai (Thailand)	                                            THA	                            th-TH	Thai (Thailand)
+Vietnamese	                                                VIE                         	vi	    Vietnamese
+Turkish (Turkey)	                                        TUR	                            tr-TR   Turkish (Turkey)
+
+
+Folders:
+- InProgress
+- Leverage
+- Output
+- TeamBuild
+
+dll se cargan a catalyst  
+
+
+
