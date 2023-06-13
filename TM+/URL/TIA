@@ -1,0 +1,6 @@
+Paremeter TIA
+IntegrationAlternateDownloader   → True
+
+path TIA
+Logs: C:\Users\Rolando.Cuellar\AppData\Roaming\TeamMate\Advanced Integration\Logs
+TIA docs: C:\Users\Rolando.Cuellar\AppData\Local\Temp\TeamMate.Integration.Agent\qa-fbtiagent.wktmdev.com
