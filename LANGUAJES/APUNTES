@@ -1,11 +1,18 @@
-16 Idiomas + Ingles = 17 Idiomas
+_______________________________________________________________________________________________________________
 
-New project
-    project title = output
+16 Idiomas + Ingles = 17 Idiomas
+17 dlls
+_______________________________________________________________________________________________________________
+
+New project → ok
+    project title = Output
 Languajes
     Source Languajes : English
     Target Languajes : English
 
+
+
+_______________________________________________________________________________________________________________
 
 TM+			
 Language Catalyst 	                                .Net Locale Code        	            Output	Transperfect
@@ -26,13 +33,14 @@ Russian	                                                    RUS	                
 Thai (Thailand)	                                            THA	                            th-TH	Thai (Thailand)
 Vietnamese	                                                VIE                         	vi	    Vietnamese
 Turkish (Turkey)	                                        TUR	                            tr-TR   Turkish (Turkey)
-
+_______________________________________________________________________________________________________________
 
 Folders:
 - InProgress
 - Leverage
 - Output
 - TeamBuild
+_______________________________________________________________________________________________________________
 
 dll se cargan a catalyst  
 
